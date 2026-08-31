@@ -1,0 +1,42 @@
+RIYA MEHRA
+riya.mehra.dev@example.com | +91 98xxx xxxxx | Pune, India
+github.com/riya-mehra-example | linkedin.com/in/riya-mehra-example
+
+Backend developer with 3 years building Python services. Comfortable owning a
+feature end to end, from schema design through deployment and on-call.
+
+WORK EXPERIENCE
+
+Backend Developer — Nexora Systems, Pune (Aug 2023 - Present)
+- Rebuilt the billing service in FastAPI, cutting p95 latency from 820ms to 210ms
+- Designed the Postgres schema for a multi-tenant subscription model
+- Added Redis caching to the pricing engine, dropping DB load about 40%
+- Mentored two interns through their first production deploys
+
+Junior Software Engineer — Talvyn Labs, Remote (Jul 2022 - Jul 2023)
+- Built internal REST APIs in Django for the ops dashboard
+- Wrote the CI pipeline in GitHub Actions that the team still uses
+- Fixed a race condition in the job queue that caused duplicate invoices
+
+EDUCATION
+
+B.Tech, Computer Science — Vishwakarma Institute of Technology, 2022, CGPA 8.4
+Higher Secondary — Modern College, Pune, 2018, 91%
+
+PROJECTS
+
+ShelfSense — a book recommendation API. FastAPI + Postgres + scikit-learn.
+Serves collaborative-filtering recommendations. github.com/riya-mehra-example/shelfsense
+
+PagerLite — a lightweight on-call rotation tool built in a weekend hackathon.
+Python, Flask, Twilio. Won second place at PuneHacks 2023.
+
+SKILLS
+Python, FastAPI, Django, PostgreSQL, Redis, Docker, Git, GitHub Actions,
+REST API design, pytest, Linux, basic AWS (EC2, S3)
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner (2024)
+
+LANGUAGES
+English, Hindi, Marathi

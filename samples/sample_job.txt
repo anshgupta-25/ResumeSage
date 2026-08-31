@@ -1,0 +1,24 @@
+Senior Backend Engineer — Platform Team
+
+We are looking for a senior backend engineer to help scale our payments
+platform, which currently handles about 2 million transactions a day.
+
+What you will do:
+- Design and build distributed backend services in Python
+- Own service reliability, including participating in an on-call rotation
+- Lead the migration of legacy monolith endpoints to microservices
+- Mentor mid-level engineers and lead design reviews
+
+Required:
+- 5+ years of professional backend engineering experience
+- Deep Python expertise, ideally with FastAPI or similar async frameworks
+- Strong SQL and data modelling skills, PostgreSQL preferred
+- Production experience with Kubernetes
+- Experience with a message broker such as Kafka or RabbitMQ
+- Track record of owning services in production at scale
+
+Nice to have:
+- Experience in fintech or payments
+- Terraform / infrastructure as code
+- Go or Rust for performance-critical paths
+- Observability tooling: Prometheus, Grafana, OpenTelemetry
