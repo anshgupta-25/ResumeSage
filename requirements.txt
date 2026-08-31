@@ -1,0 +1,14 @@
+# Core LangChain
+langchain-core>=0.3.0
+langchain-mistralai>=0.2.0
+mistralai>=1.2.0
+
+# Validation & config
+pydantic>=2.9.0
+python-dotenv>=1.0.1
+
+# UI
+streamlit>=1.40.0
+
+# PDF resume support
+pypdf>=5.0.0
